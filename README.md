@@ -38,7 +38,7 @@ Thanks for using my tool:)
 
 
 ## Screenshot
-![Screenshot_1](https://github.com/ohioguy123/Photos/blob/main/Screenshot%202023-10-26%20204643.png)
+![Screenshot_1](https://user-images.githubusercontent.com/106061655/238184743-80dcc1c8-4d83-4bb9-8ced-eb6b96203c38.png)
 
 
 

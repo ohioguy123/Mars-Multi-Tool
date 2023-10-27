@@ -38,7 +38,7 @@ Thanks for using my tool:)
 
 
 ## Screenshot
-![Screenshot_1](https://github.com/eggy22/Bottle-Multitool/assets/106061655/80dcc1c8-4d83-4bb9-8ced-eb6b96203c38)
+![Screenshot_1](https://github.com/ohioguy123/Photos/blob/main/Screenshot%202023-10-26%20204643.png)
 
 
 
